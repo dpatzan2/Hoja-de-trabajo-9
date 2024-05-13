@@ -1,0 +1,13 @@
+Pueblo Paleta,Ciudad Verde,50
+Ciudad Verde,Ciudad Plateada,80
+Ciudad Plateada,Ciudad Celeste,60
+Ciudad Celeste,Ciudad Carmín,120
+Ciudad Carmín,Ciudad Azulona,90
+Ciudad Azulona,Ciudad Fucsia,70
+Ciudad Fucsia,Pueblo Lavanda,40
+Pueblo Lavanda,Ciudad Azafrán,100
+Ciudad Azafrán,Isla Canela,200
+Isla Canela,Pueblo Paleta,180
+Ciudad Plateada,Ciudad Azafrán,150
+Ciudad Celeste,Ciudad Azulona,100
+Ciudad Carmín,Isla Canela,250
